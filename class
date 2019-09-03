@@ -1,0 +1,35 @@
+class
+{
+public void add(int a)
+{
+a+=100;
+cw("sum"+a);
+}
+public void add(int a,int b)
+{
+cw("sum"+(a+b));
+}
+public void add(int a,intb,intc)
+{
+cw("sum"+(a+b+c);
+}
+public void add(float a,float b)
+{
+cw("sum"+(a+b));
+
+}
+public void add(string a,string b)
+{
+cw("sum"a+""+b);
+}
+sv
+{
+compute c=new compute();
+c.add(10);
+c.add()10,20);
+c.add(10,20,30);
+c.add(12.43f,45,76f);
+c.add("method","methodloading");
+}
+}
+}
